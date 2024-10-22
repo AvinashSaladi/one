@@ -9,7 +9,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: darkred; font-size: 50px;" align="center">Orewa Monkey D Luffy</h1>
-        <h1 style="color: darkred; font-size: 50px;" align="center">Webhook Applied</h1>
+        
 
 	
 	
