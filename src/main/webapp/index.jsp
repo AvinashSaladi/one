@@ -11,7 +11,7 @@
 	<h1 style="color: darkred; font-size: 50px;" align="center">Orewa Monkey D Luffy</h1>
 	<h1 style="color: darkred; font-size: 50px;" align="center">Webhook Applied</h1>
         <h1 style="color: purple; font-size: 50px;" align="center">Nexus was successfully integrated</h1>
-        <h1 style="color: darkblue; font-size: 50px;" align="center">Please approve for deployment 😊</h1>
+        <h1 style="color: darkblue; font-size: 50px;" align="center">Please approve for deployment :-)</h1>
         <h1 style="color: darkgreen; font-size: 50px;" align="center">App was deployed through pipeline</h1>
         <h1 style="color: orange; font-size: 50px;" align="center">Package was saved in the repo manager via pipeline</h1>
         <h1 style="color: grey; font-size: 50px;" align="center">Build was done for every 2 minutes</h1>
