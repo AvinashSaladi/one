@@ -8,9 +8,9 @@
 	<h1 style="color: green; font-size: 40px;" align="center">234567890</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
-        <h1 style="color: pink; font-size: 40px;" align="center">Integraed pipeline with master and slave servers</h1>
-        <h1 style="color: pink; font-size: 40px;" align="center">App was successfully Deployed</h1>
-        <h1 style="color: pink; font-size: 40px;" align="center">Nexus was also integrated</h1>
+        <h1 style="color: darkred; font-size: 40px;" align="center">Integraed pipeline with master and slave servers</h1>
+        <h1 style="color: darkgreen; font-size: 40px;" align="center">App was successfully Deployed</h1>
+        <h1 style="color: orange; font-size: 40px;" align="center">Nexus was also integrated</h1>
         
         
 
