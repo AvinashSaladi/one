@@ -12,7 +12,7 @@
 	<h1 style="color: darkred; font-size: 50px;" align="center">Webhook Applied</h1>
         <h1 style="color: purple; font-size: 50px;" align="center">Nexus was successfully integrated</h1>
         <h1 style="color: darkgreen; font-size: 50px;" align="center">App was deployed through pipeline</h1>
-        <h1 style="color: orange; font-size: 50px;" align="center">Package was saved in the repo manager</h1>
+        <h1 style="color: orange; font-size: 50px;" align="center">Package was saved in the repo manager via pipeline</h1>
         
 
 	
