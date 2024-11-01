@@ -9,6 +9,6 @@
     <h1 style="color: violet; font-size: 40px;" align="center">Welcome to My Website</h1>
     <h1 style="color: red; font-size: 40px;" align="center">Miniproject was done</h1>
     <h1 style="color: green; font-size: 40px;" align="center">Multipipeline Deployment was also done</h1>
-    <h1 style="color: purple; font-size: 40px;" align="center">Version upgraded to 8.6.8</h1>
+    <h1 style="color: red; font-size: 40px;" align="center">Version upgraded to 8.6.8</h1>
 </body>
 </html>
