@@ -6,7 +6,7 @@
     <title>My Web App</title>
 </head>
 <body>
-    <h1>Welcome to My Website</h1>
-    <p>The mini project was done.</p>
+    <h1 style="color: violet; font-size: 40px;" align="center">Welcome to My Website</h1>
+    <h1 style="color: red; font-size: 40px;" align="center">Miniproject was done</h1>
 </body>
 </html>
