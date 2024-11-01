@@ -24,7 +24,7 @@ pipeline{
         }
         stage('Artifact'){
             steps{
-                nexusArtifactUploader artifacts: [[artifactId: 'myweb', classifier: '', file: 'target/myweb-8.6.7.war', type: 'war']], credentialsId: 'nexus', groupId: 'in.javahome', nexusUrl: '54.226.180.96:8081', nexusVersion: 'nexus3', protocol: 'http', repository: 'myrepo', version: '8.6.7'
+                nexusArtifactUploader artifacts: [[artifactId: 'myweb', classifier: '', file: 'target/myweb-8.6.7.war', type: 'war']], credentialsId: 'nexus', groupId: 'in.javahome', nexusUrl: '54.226.180.96:8081', nexusVersion: 'nexus3', protocol: 'http', repository: 'myrepo', version: '8.6.8'
             }
         }
         stage('Deployment'){
