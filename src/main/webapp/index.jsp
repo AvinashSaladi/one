@@ -10,5 +10,6 @@
     <h1 style="color: red; font-size: 40px;" align="center">Miniproject was done</h1>
     <h1 style="color: green; font-size: 40px;" align="center">Multipipeline Deployment was also done</h1>
     <h1 style="color: red; font-size: 40px;" align="center">Version was upgraded to 8.6.9</h1>
+    <h1 style="color: black; font-size: 40px;" align="center">I love Anime</h1>
 </body>
 </html>
